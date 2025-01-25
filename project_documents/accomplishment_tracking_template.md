@@ -8,7 +8,7 @@ It's a great habit to record accomplishments and progress throughout your SDE
 career. It's useful to reflect on what you've worked on in the past and comes in
 handy during performance reviews and promotion cycles.
 
-## Instructions
+## Instructions Instructions
 
 **Save a copy of this document in your “private” folder.**
 
